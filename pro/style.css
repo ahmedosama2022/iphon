@@ -1,0 +1,75 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px;
+    margin-left: 100px;
+    margin-right: 40px;
+}
+
+nav a{
+    text-decoration: none;
+    color: white;
+    margin: 20px;
+    position: relative;
+    top: 10px;
+    font-size: 18px;
+    font-weight: 700;
+    
+}
+
+.sec1{
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    top: 150px;
+    margin-left: 100px;
+    margin-right: 40px;
+}
+
+
+.im h1{
+    color: white;
+    margin-bottom: 20px;
+}
+
+.im p{
+    color: white;
+    margin-bottom: 10px;
+}
+
+
+.im input{
+    width: 140px;
+    height: 40px;
+    border-radius: 20px;
+    font-weight: 700;
+    border: none;
+}
+.contener{
+    height:800px ;
+}
+
+
+.er img{
+    position: relative;
+    right: 400px;
+    bottom: 100px;
+}
+
+
+
+.sec6{
+    text-align: center;
+    position: relative;
+    top: 100px;
+}
